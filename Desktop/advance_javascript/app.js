@@ -1,4 +1,4 @@
-//console.log(window);
+console.log(window);
 // alert();
 // window.alert(); //line 3 and 4 are same
 //console.log(document);
